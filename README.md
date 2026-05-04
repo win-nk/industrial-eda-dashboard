@@ -133,6 +133,5 @@ This estimate is conservative — it excludes secondary costs such as equipment 
 
 **Nawin Khamtha**  
 B.Eng. Automation Robotics & Intelligent System · Khon Kaen University  
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [GitHub](https://github.com/win-nk)
+[LinkedIn](www.linkedin.com/in/nawin-khamtha-754562377) · [GitHub](https://github.com/win-nk)
 
-*Targeting: NEXPIE · Siemens Thailand · PTT Digital · IRPC*
