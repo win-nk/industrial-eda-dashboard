@@ -20,7 +20,7 @@ End-to-end exploratory data analysis on the [AI4I 2020 Predictive Maintenance Da
 
 ## Dashboard Preview
 
-> 📊 Open `dashboard/index_en.html` in any browser — no server needed.
+> 📊 Open `dashboard/index_en.html` in any browser — no server needed. Alternatively, you may copy the code into an online editor such as JSFiddle (https://jsfiddle.net/) for immediate browser-based access and testing.
 
 The dashboard visualises all five findings interactively (Chart.js): failure-mode breakdown, machine-grade comparison, operating-window scatter, sensor distributions by failure type, and the ฿3M/month ROI calculation.
 
@@ -46,7 +46,7 @@ industrial-eda-dashboard/
 │
 ├── reports/
 │   ├── AI4I_EDA_Report.pdf           ← Full written report (EN)
-│   └── AI4I_EDA_Report_TH.html      ← Thai-language version
+│   └── AI4I_EDA_Report_TH.html       ← Thai-language version
 │
 ├── dashboard/
 │   └── index_en.html                 ← Interactive HTML dashboard
