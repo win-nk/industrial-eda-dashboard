@@ -46,7 +46,6 @@ industrial-eda-dashboard/
 │
 ├── reports/
 │   ├── AI4I_EDA_Report.pdf           ← Full written report (EN)
-│   └── AI4I_EDA_Report_TH.html       ← Thai-language version
 │
 ├── dashboard/
 │   └── index_en.html                 ← Interactive HTML dashboard
